@@ -25,7 +25,7 @@ Glad to be here!
 
 ### 🛠 Work on
 
-![Tools I use](https://skillicons.dev/icons?i=vscode,github,visualstudio,)
+![Tools I use](https://skillicons.dev/icons?i=vscode,visualstudio,github,)
 
 ### 🚀 Contribution
 <picture>
