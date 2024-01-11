@@ -21,7 +21,7 @@ Glad to be here!
 
 ### 🌱 Learning with
 
-![Tech stack]([https://skillicons.dev/icons?i=python,tensorflow,unity,cs,cpp](https://skillicons.dev/icons?i=pytorch,tensorflow,python,cs,cpp,rust,go,))
+![Tech stack](https://skillicons.dev/icons?i=pytorch,tensorflow,python,cs,cpp,rust,go)
 
 ### 🛠 Work on
 
