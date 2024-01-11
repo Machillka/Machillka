@@ -21,11 +21,11 @@ Glad to be here!
 
 ### 🌱 Learning with
 
-![Tech stack](https://skillicons.dev/icons?i=python,tensorflow,unity,cs,cpp)
+![Tech stack]([https://skillicons.dev/icons?i=python,tensorflow,unity,cs,cpp](https://skillicons.dev/icons?i=pytorch,tensorflow,python,cs,cpp,rust,go,)
 
 ### 🛠 Work on
 
-![Tools I use](https://skillicons.dev/icons?i=vscode,visualstudio,github,)
+![Tools I use](https://skillicons.dev/icons?i=vscode,visualstudio,github,unity)
 
 ### 🚀 Contribution
 <picture>
