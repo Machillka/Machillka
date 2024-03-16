@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### 👋 Hi this is Machillka
 
-Glad to be here!
+Glad to see you guys!
 
 ### 🌱 Learning with
 
