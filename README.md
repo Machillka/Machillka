@@ -38,5 +38,4 @@ Glad to see you guys!
 - email: machillka2007@gmail.com
 
 ### Support me
-[![By me a coffee](https://img.shields.io/badge/爱发电-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://afdian.net/a/Machillkay)
-
+[Buy me a coffee](https://github.com/Machillka/support-me)
