@@ -40,6 +40,6 @@ Glad to see you guys!
 ### Support me
 [![爱发电](https://img.shields.io/badge/爱发电-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://afdian.net/a/Machillkay)
 
-[![Wechat](https://img.shields.io/badge/微信支付-Machillka-green)](assets/payment/wechatpay.jpg)
-[![Alipay](https://img.shields.io/badge/支付宝-Machillka-blue)](assets/payment/alipay.png)
+[![Wechat](https://img.shields.io/badge/微信支付-Machillka-green)](assets/payment/wechatpay.png)
+[![Alipay](https://img.shields.io/badge/支付宝-Machillka-blue)](assets/payment/alipay.jpg)
 
