@@ -35,8 +35,8 @@ Glad to see you guys!
 </picture>
 
 ### 💬 Chat with me
-- Web site: <a href="https://machillka.top">machillka.top</a>
+- email: machillka2007@gmail.com
 
 ### Support me
-[![Ny me a coffee](https://img.shields.io/badge/爱发电-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://afdian.net/@machillka)
+[![By me a coffee](https://img.shields.io/badge/爱发电-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://afdian.net/a/Machillkay)
 
