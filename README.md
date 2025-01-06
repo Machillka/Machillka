@@ -38,6 +38,8 @@ Glad to see you guys!
 - email: machillka2007@gmail.com
 
 ### Support me
+<!--
 [![Wechat](https://img.shields.io/badge/微信支付-Machillka-green)](assets/payment/wechatpay.png)
 [![Alipay](https://img.shields.io/badge/支付宝-Machillka-blue)](assets/payment/alipay.jpg)
+-->
 
