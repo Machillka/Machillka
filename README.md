@@ -44,7 +44,7 @@ I'm a
 
 ### 📫 Contact Me
 
-- [Mail](machillka2007@gmail.com)
+- [Mail](mailto:machillka2007@gmail.com)
 - [X](https://x.com/machillka)
 - [Bilibili](https://space.bilibili.com/611004244)
 
