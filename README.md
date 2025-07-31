@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 ### 👋 Hi this is Machillka
 
 Glad to see you guys!
-I'm a 
 
 
 ### 🌱 Learning with
