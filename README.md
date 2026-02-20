@@ -33,7 +33,7 @@ Glad to see you guys!
 
 | Contribution Graph                                                                                     | Top Languages                                                            |
 | -------------------------------------------------------------------------------------------------------| ------------------------------------------------------------------------- |
-| ![Contributions](https://github-readme-stats.vercel.app/api?username=Machillka&show_icons=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Machillka&layout=compact&theme=dark) |
+| ![Contributions](https://github-readme-stats-phi-weld-50.vercel.app/api?username=machillka&show_icons=true&theme=dark) | ![Top Langs](https://github-readme-stats-phi-weld-50.vercel.app/api/top-langs/?username=Machillka&layout=compact&theme=dark) |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-snake-dark.svg" />
